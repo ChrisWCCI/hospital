@@ -20,5 +20,5 @@ public abstract class Employee {
         return employeeDetails;
     }
 
-    public abstract double calculatePay();
+    private abstract double calculatePay();
 }
